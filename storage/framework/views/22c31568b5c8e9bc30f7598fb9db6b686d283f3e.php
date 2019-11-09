@@ -1,0 +1,1 @@
+<?php /**PATH H:\weDevs\Project\New folder\Auth\resources\views/pages/head.blade.php ENDPATH**/ ?>
